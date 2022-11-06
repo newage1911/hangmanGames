@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "src/components/Keyboard.tsx", "src/components/HangmanWord.tsx", "src/components/HangmanDrawing.tsx"  ]
 }
